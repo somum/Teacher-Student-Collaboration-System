@@ -5,3 +5,7 @@ Main reason behind this project is maintaining a secure not depend on third part
 crate courses and share materials. Student can easily attend the course and get files but full control will be at course teacher point.
 
 Used Tools : C#, ASP.NET MVC, Visual Studio
+
+<h2>Snap of Some portions</h2>
+
+![](screenshot.jpg)
